@@ -1,0 +1,15 @@
+Figma
+Visual Studio Code
+Notion
+Git
+DBeaver
+PostgreSQL
+Python
+Pageant
+Putty
+Responsively
+postman
+Node JS (version 13+)
+NeoVim
+Visual Studio community 2022
+
