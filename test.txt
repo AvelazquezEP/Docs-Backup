@@ -1,0 +1,11 @@
+GITHUB:
+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
+
+SSH:
+HOST: ssh.abogadoericprice.com
+
+USER: u1088-plrzrs8atjig
+
+Puerto: 18765
+
+
