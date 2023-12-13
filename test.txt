@@ -15,3 +15,9 @@ $port = "5432";
 $dbname = "dbezl1uquldojv";
 $user = "uhgpgzxv2hhak";
 $password = "700Flower!";
+
+#SERVER 136:
+host: ericp136.sg-host.com
+database: dbbtqw08ykn9da
+user: uici4chbrg79d
+pass: N412e&@1rF21
